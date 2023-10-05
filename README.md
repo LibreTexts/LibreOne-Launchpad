@@ -16,7 +16,7 @@ The minified script is hosted on the LibreTexts CDN:
 <html>
 <head>
     <title>Test</title>
-    <script src="./dist/libreone-launchpad-widget.min.js" type="text/javascript" defer></script>
+    <script src="https://cdn.libretexts.net/libreone-launchpad-widget.min.js" type="text/javascript" defer></script>
 </head>
 <body>
     <div id="widget-parent">
