@@ -2,7 +2,6 @@ import "./index.css";
 
 createLaunchpadWidget();
 function createLaunchpadWidget() {
-    console.log('running')
     const element = document.getElementById('widget-parent');
 
     if(!element) {

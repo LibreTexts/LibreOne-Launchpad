@@ -2,6 +2,10 @@
 A common widget for all LibreTexts applications to use to easily navigate users to the LibreOne Launchpad page
 
 ## Usage
+The minified script is hosted on the LibreTexts CDN:
+
+```https://cdn.libretexts.net/libreone-launchpad-widget.min.js```
+
 - Create a div element in the desired location with the id "widget-parent"
 - Import the widget script from the CDN. Make sure to add the "defer" attribute to the script tag, as we need to wait for the DOM content to load in order to atttach to the "widget-parent" element.
 
