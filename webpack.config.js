@@ -17,10 +17,6 @@ const config = {
         path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
-        new HtmlWebpackPlugin({
-            template: 'index.html',
-        }),
-
         // Add your plugins here
         // Learn more about plugins from https://webpack.js.org/configuration/plugins/
     ],
